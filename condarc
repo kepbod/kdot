@@ -1,0 +1,15 @@
+# channel locations
+channels:
+  - bioconda # bioinformatics software channel
+  - r
+  - defaults
+
+# show channel URLs
+show_channel_urls: True
+
+# disable command prompt
+changeps1: False
+
+# default package added for a new environment
+create_default_packages:
+  - ipython # useful for testing simple python codes
