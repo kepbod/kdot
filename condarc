@@ -15,3 +15,4 @@ create_default_packages:
   - ipython # useful for testing simple python codes
   - jedi # awesome autocompletion and static analysis library
   - flake8 # python code checker
+  - nose # testing for python
