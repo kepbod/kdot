@@ -12,7 +12,8 @@ changeps1: False
 
 # default package added for a new environment
 create_default_packages:
-  - ipython # useful for testing simple python codes
+  - jupyter # useful for testing simple python codes and data science
   - jedi # awesome autocompletion and static analysis library
   - flake8 # python code checker
   - nose # testing for python
+  - six # support python 2 & 3
