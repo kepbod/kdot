@@ -22,16 +22,20 @@ To make full use of zsh, a [modified version](https://github.com/kepbod/prezto) 
 bash <(curl -L https://raw.githubusercontent.com/kepbod/prezto/master/setup.sh) -i
 ```
 
-## Vim
+## Vim/NeoVim
 
 An easy & highly customizable vim configuration ([ivim](https://github.com/kepbod/ivim)) has been developped to fatilitate vim usage. More details refer to https://github.com/kepbod/ivim.
 
-![ivim_snapshot](https://raw.githubusercontent.com/kepbod/ivim/master/snapshot1.jpg)
+* Vim
+![vim_snapshot](https://raw.githubusercontent.com/kepbod/ivim/master/snapshot/ivim_mini.jpeg)
+* NeoVim
+![neovim_snapshot](https://raw.githubusercontent.com/kepbod/ivim/master/snapshot/ivim_nvim.jpeg)
 
 ### install
 
 ```
 bash <(curl -L https://raw.githubusercontent.com/kepbod/ivim/master/setup.sh) -m
+bash <(curl -L https://raw.githubusercontent.com/kepbod/ivim/master/setup.sh) -u
 ```
 
 ## Tmux
