@@ -26,7 +26,7 @@ bash <(curl -L https://raw.githubusercontent.com/kepbod/prezto/master/setup.sh) 
 
 An easy & highly customizable vim configuration ([ivim](https://github.com/kepbod/ivim)) has been developped to fatilitate vim usage. More details refer to https://github.com/kepbod/ivim.
 
-![vim_snapshot](https://raw.githubusercontent.com/kepbod/ivim/master/snapshot/ivim_mini.jpeg)
+![vim_snapshot](https://raw.githubusercontent.com/kepbod/ivim/master/snapshot/ivim.jpeg)
 
 ### install
 

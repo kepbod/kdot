@@ -16,4 +16,4 @@ create_default_packages:
   - jedi # awesome autocompletion and static analysis library
   - flake8 # python code checker
   - nose # testing for python
-  - six # support python 2 & 3
+  - future # support python 2 & 3
