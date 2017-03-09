@@ -1,8 +1,9 @@
 # channel locations
 channels:
-  - bioconda # bioinformatics software channel
-  - r
+  - conda-forge
   - defaults
+  - r
+  - bioconda # bioinformatics software channel
 
 # show channel URLs
 show_channel_urls: True
