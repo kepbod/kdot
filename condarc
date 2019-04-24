@@ -2,14 +2,11 @@
 channels:
   - conda-forge
   - defaults
-  - r
-  - bioconda # bioinformatics software channel
+  - bioconda
+channel_priority: strict
 
 # show channel URLs
-show_channel_urls: True
-
-# disable command prompt
-changeps1: False
+show_channel_urls: true
 
 # default package added for a new environment
 create_default_packages:
