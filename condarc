@@ -11,7 +11,5 @@ show_channel_urls: true
 # default package added for a new environment
 create_default_packages:
   - jupyter # useful for testing simple python codes and data science
-  - jedi # awesome autocompletion and static analysis library
-  - flake8 # python code checker
-  - nose # testing for python
-  - future # support python 2 & 3
+  - python-language-server # awesome autocompletion and static analysis library
+  - pytest # testing for python
