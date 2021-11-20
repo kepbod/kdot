@@ -1,8 +1,8 @@
 # channel locations
 channels:
   - conda-forge
-  - defaults
   - bioconda
+  - defaults
 channel_priority: strict
 
 # show channel URLs
@@ -10,6 +10,14 @@ show_channel_urls: true
 
 # default package added for a new environment
 create_default_packages:
-  - jupyter # useful for testing simple python codes and data science
-  - python-language-server # awesome autocompletion and static analysis library
-  - pytest # testing for python
+  - jupyter
+  - python-language-server
+  - pytest
+  - tmux
+  - vim
+  - ctags
+  - bat
+  - htop
+  - fd
+  - radian
+  - r-languageserver
