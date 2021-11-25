@@ -19,5 +19,3 @@ create_default_packages:
   - bat
   - htop
   - fd
-  - radian
-  - r-languageserver
